@@ -3,3 +3,5 @@ A doodle in flixel-GDX. A hyena and flamingo sprite, with some animations, and s
 inspired by this photograph: http://www.guardian.co.uk/pictures/image/0,8543,-10505044516,00.html
 
 Essentially public domain, WTFPL included for those that need it. 
+
+see it running live: http://www.youtube.com/watch?v=95cQgxWUfGk&feature=youtu.be
